@@ -110,5 +110,5 @@ Consortium and Demon Internet Ltd., November 1997.
 pp. 1573-1583.
 
 ## 8. Acknowledgments
->Add any acknowledgements
+>Add any acknowledgement
 
